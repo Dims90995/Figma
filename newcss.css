@@ -5,9 +5,16 @@ body {
 
 H1 {
     color: orangered;
-    font-size: 24px
+    font-size: 70px;
+    border: thick;
+    text-align: center
+    
     ;}
 
     p [
         color: gray;
     ]
+
+  div [
+    
+  ]
